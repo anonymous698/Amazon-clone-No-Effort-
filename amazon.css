@@ -77,18 +77,21 @@ select{
     border:none;
     
     
+    
 
 }
+
 .search-input{
 height:36px;
 width:990px;
+
 
 
 }
 .search-input input{
     height:94%;
     width:100%;
-    
+    outline:none;
     border-top-left-radius: 0%;
     border-bottom-left-radius:0%;
     border-top-right-radius: 0%;
@@ -312,6 +315,5 @@ pre p{
     
 }
 pre a:hover{
-    text-decoration: underline
-    ;
+    text-decoration: underline;
 }
