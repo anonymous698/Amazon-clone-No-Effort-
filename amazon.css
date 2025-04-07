@@ -65,7 +65,7 @@ select{
     border-top-right-radius: 0%;
     border-bottom-right-radius: 0%;
     border:none;
-    
+
     
 
 }
@@ -113,7 +113,8 @@ width:990px;
     border-radius:5px;
 }
 .glass:hover{
-    background-color:rgb(204, 151, 60)
+    background-color:rgb(248, 203, 124);
+    cursor:pointer;
 }
 .fa-magnifying-glass{
     font-size:25px;
